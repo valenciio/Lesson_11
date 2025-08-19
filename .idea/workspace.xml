@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56e13a46-4472-4111-aeda-de530b210352" name="Changes" comment="newdemoqa" />
+    <list default="true" id="56e13a46-4472-4111-aeda-de530b210352" name="Changes" comment="newdemoqa1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,9 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
@@ -137,14 +142,23 @@
       <option name="project" value="LOCAL" />
       <updated>1755598822094</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="newdemoqa1">
+      <option name="closed" value="true" />
+      <created>1755599227901</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1755599227901</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="update demoqa" />
     <MESSAGE value="newdemoqa" />
-    <option name="LAST_COMMIT_MESSAGE" value="newdemoqa" />
+    <MESSAGE value="newdemoqa1" />
+    <option name="LAST_COMMIT_MESSAGE" value="newdemoqa1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
