@@ -100,6 +100,7 @@ public class RegistrationPage {
 
     @Step("Выбор штата {value}")
     public RegistrationPage setState(String value){
+        stateInput.scrollIntoView(true);
         stateInput.click();
         stateAndCity.setState(value);
         return this;
@@ -107,6 +108,7 @@ public class RegistrationPage {
 
     @Step("Выбор города {value}")
     public RegistrationPage setCity(String value){
+        cityInput.scrollIntoView(true);
         cityInput.click();
         stateAndCity.setCity(value);
         return this;
@@ -114,6 +116,7 @@ public class RegistrationPage {
 
     @Step("Нажатие на кнопку Submit")
     public RegistrationPage submitClick(){
+        submitClick.scrollIntoView(true);
         submitClick.click();
         return this;
     }

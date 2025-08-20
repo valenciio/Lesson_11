@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56e13a46-4472-4111-aeda-de530b210352" name="Changes" comment="newdemoqa01">
+    <list default="true" id="56e13a46-4472-4111-aeda-de530b210352" name="Changes" comment="updatedemoqa02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/components/CalendarComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/CalendarComponent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/components/RegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/RegistrationPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/components/StateAndCityComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/StateAndCityComponent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/FullRegistrationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/FullRegistrationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/RegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/RegistrationPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755603189497</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="updatedemoqa02">
+      <option name="closed" value="true" />
+      <created>1755680966453</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1755680966453</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -172,7 +176,8 @@
     <MESSAGE value="newdemoqa" />
     <MESSAGE value="newdemoqa1" />
     <MESSAGE value="newdemoqa01" />
-    <option name="LAST_COMMIT_MESSAGE" value="newdemoqa01" />
+    <MESSAGE value="updatedemoqa02" />
+    <option name="LAST_COMMIT_MESSAGE" value="updatedemoqa02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
