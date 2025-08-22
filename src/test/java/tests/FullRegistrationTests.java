@@ -6,6 +6,7 @@ import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 import pages.RegistrationPage;
 
+
 @Tag("form")
 @DisplayName("Тесты для формы https://demoqa.com/automation-practice-form")
 public class FullRegistrationTests extends TestBase {
