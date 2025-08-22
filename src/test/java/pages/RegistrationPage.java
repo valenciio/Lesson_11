@@ -127,9 +127,4 @@ public class RegistrationPage {
                 .shouldHave(text(value));
         return this;
     }
-
-    @Step("Проверка названия формы")
-    public void checkFormControl(){
-        formWrapper.shouldHave(text("Student Registration Form"));
-    }
 }

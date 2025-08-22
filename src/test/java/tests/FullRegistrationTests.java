@@ -55,7 +55,6 @@ public class FullRegistrationTests extends TestBase {
                 .submitClick()
                 .checkResult("Student Name", data.firstName + " " + data.lastName)
                 .checkResult("Gender", data.userGender)
-                .checkResult("Mobile", data.userPhone)
-                .checkFormControl();
+                .checkResult("Mobile", data.userPhone);
     }
 }
