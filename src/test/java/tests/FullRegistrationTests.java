@@ -7,6 +7,7 @@ import org.junit.jupiter.api.Test;
 import pages.RegistrationPage;
 
 
+
 @Tag("form")
 @DisplayName("Тесты для формы https://demoqa.com/automation-practice-form")
 public class FullRegistrationTests extends TestBase {
@@ -57,5 +58,15 @@ public class FullRegistrationTests extends TestBase {
                 .checkResult("Student Name", data.firstName + " " + data.lastName)
                 .checkResult("Gender", data.userGender)
                 .checkResult("Mobile", data.userPhone);
+    }
+    @DisplayName("Некорректное заполнение формы")
+    @Test
+    void incorrectRegistration() {
+        steps.openPage()
+                .setFirstName(data.firstName)
+                .setLastName(data.lastName)
+                .setGender(data.userGender)
+                .submitClick()
+                .checkFormControl();
     }
 }
