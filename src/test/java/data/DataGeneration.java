@@ -18,7 +18,7 @@ public class DataGeneration {
             userSubjects = faker.options().option("Maths","Chemistry","English",
                     "Computer Science"),
             userHobbies = faker.options().option("Sports", "Reading", "Music"),
-            img = faker.options().option("cat.jpg", "dog.jpg", "fish.jpg"),
+            img = faker.options().option( "dog.jpg", "fish.jpg"),
             userCurrentAddres = faker.address().country(),
             userState = faker.options().option("NCR", "Uttar Pradesh","Haryana", "Rajasthan"),
             userCity = getRandomCity(userState);
