@@ -32,6 +32,16 @@ dependencies {
     )
 }
 
+tasks.named('allureReport', Exec) {
+    dependsOn 'test'
+    commandLine 'cmd', '/c', 'build\\allure\\commandline\\bin\\allure.bat', 'generate', 'build\\allure-results', '--clean'
+}
+
+tasks.named('allureServe', Exec) {
+    dependsOn 'allureReport'
+    commandLine 'cmd', '/c', 'build\\allure\\commandline\\bin\\allure.bat', 'serve', 'build\\allure-results'
+}
+
 tasks.withType(Test).configureEach {
     useJUnitPlatform()
     systemProperties(System.getProperties())

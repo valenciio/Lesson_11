@@ -1,0 +1,17 @@
+{
+  "base": {
+    "project": "${JOB_BASE_NAME}",
+    "environment": "qa guru",
+    "comment": "some comment",
+    "reportLink": "${BUILD_URL}",
+    "language": "en",
+    "messenger": "telegram",
+    "allureFolder": "C:\\Users\\LENOVO~1\\AppData\\Local\\Temp\\1292457931577416809\\allure-report",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "8448888699:AAHGYw9tMLwKu7W_ztr2rtswjyCxLS33IXg",
+    "chat": "-1002927206738",
+    "replyTo": ""
+  }
+}
