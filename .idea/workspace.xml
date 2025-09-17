@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56e13a46-4472-4111-aeda-de530b210352" name="Changes" comment="updatedemoqa09">
-      <change afterPath="$PROJECT_DIR$/notifications/allure-notifications-4.11.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/confin.json" afterDir="false" />
+    <list default="true" id="56e13a46-4472-4111-aeda-de530b210352" name="Changes" comment="updatedemoqa11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notifications/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/config.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -350,7 +347,23 @@
       <option name="project" value="LOCAL" />
       <updated>1756202749113</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="updatedemoqa10">
+      <option name="closed" value="true" />
+      <created>1758105067810</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1758105067810</updated>
+    </task>
+    <task id="LOCAL-00015" summary="updatedemoqa11">
+      <option name="closed" value="true" />
+      <created>1758105712226</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1758105712226</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -367,7 +380,9 @@
     <MESSAGE value="updatedemoqa07" />
     <MESSAGE value="updatedemoqa08" />
     <MESSAGE value="updatedemoqa09" />
-    <option name="LAST_COMMIT_MESSAGE" value="updatedemoqa09" />
+    <MESSAGE value="updatedemoqa10" />
+    <MESSAGE value="updatedemoqa11" />
+    <option name="LAST_COMMIT_MESSAGE" value="updatedemoqa11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
