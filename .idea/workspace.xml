@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56e13a46-4472-4111-aeda-de530b210352" name="Changes" comment="updatedemoqa13">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="56e13a46-4472-4111-aeda-de530b210352" name="Changes" comment="updatedemoqa14">
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tests/FullRegistrationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/FullRegistrationTests.java" afterDir="false" />
     </list>
@@ -380,7 +379,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758108071438</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="updatedemoqa14">
+      <option name="closed" value="true" />
+      <created>1758110473319</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1758110473319</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -401,7 +408,8 @@
     <MESSAGE value="updatedemoqa11" />
     <MESSAGE value="updatedemoqa12" />
     <MESSAGE value="updatedemoqa13" />
-    <option name="LAST_COMMIT_MESSAGE" value="updatedemoqa13" />
+    <MESSAGE value="updatedemoqa14" />
+    <option name="LAST_COMMIT_MESSAGE" value="updatedemoqa14" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
