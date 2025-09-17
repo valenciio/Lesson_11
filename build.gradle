@@ -65,14 +65,3 @@ task fullRegistrationTests(type: Test) {
         includeTags("form")
     }
 }
-task smoke(type: Test) {
-    useJUnitPlatform {
-        includeTags("smoke")
-    }
-}
-
-task regress(type: Test) {
-    useJUnitPlatform {
-        includeTags("regress")
-    }
-}

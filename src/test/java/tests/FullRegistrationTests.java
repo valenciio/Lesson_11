@@ -15,7 +15,6 @@ public class FullRegistrationTests extends TestBase {
     DataGeneration data = new DataGeneration();
 
     @DisplayName("Полное заполнение формы")
-    @Tag("regress")
     @Test
     void fullRegistration() {
 
@@ -48,7 +47,6 @@ public class FullRegistrationTests extends TestBase {
     }
 
     @DisplayName("Минимальное заполнение формы")
-    @Tag("smoke")
     @Test
     void partialRegistration() {
         steps.openPage()

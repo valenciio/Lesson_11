@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56e13a46-4472-4111-aeda-de530b210352" name="Changes" comment="updatedemoqa11">
+    <list default="true" id="56e13a46-4472-4111-aeda-de530b210352" name="Changes" comment="updatedemoqa13">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/FullRegistrationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/FullRegistrationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -363,7 +364,23 @@
       <option name="project" value="LOCAL" />
       <updated>1758105712226</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="updatedemoqa12">
+      <option name="closed" value="true" />
+      <created>1758106275861</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1758106275861</updated>
+    </task>
+    <task id="LOCAL-00017" summary="updatedemoqa13">
+      <option name="closed" value="true" />
+      <created>1758108071438</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1758108071438</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -382,7 +399,9 @@
     <MESSAGE value="updatedemoqa09" />
     <MESSAGE value="updatedemoqa10" />
     <MESSAGE value="updatedemoqa11" />
-    <option name="LAST_COMMIT_MESSAGE" value="updatedemoqa11" />
+    <MESSAGE value="updatedemoqa12" />
+    <MESSAGE value="updatedemoqa13" />
+    <option name="LAST_COMMIT_MESSAGE" value="updatedemoqa13" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
