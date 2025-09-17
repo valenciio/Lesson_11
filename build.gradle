@@ -62,7 +62,7 @@ compileTestJava {
 
 task fullRegistrationTests(type: Test) {
     useJUnitPlatform {
-        includeTags("form")
+        includeTags("fullRegistrationTests")
     }
 }
 task smoke(type: Test) {
