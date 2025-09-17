@@ -8,7 +8,7 @@ import pages.RegistrationPage;
 
 
 
-@Tag("form")
+@Tag("fullRegistrationTests")
 @DisplayName("Тесты для формы https://demoqa.com/automation-practice-form")
 public class FullRegistrationTests extends TestBase {
     RegistrationPage steps = new RegistrationPage();
